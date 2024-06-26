@@ -1,9 +1,11 @@
-# This is HanSeol's Area  :imp::poop:
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=초심자%20주의구역&fontSize=90)
 
+
+# 초심자 주의구역  :warning::poop:
 
 ## :closed_book: About Me
 
-개발자(지망생)
+개발자(지망생) :beginner:
 
 ## :boom: Skills
 
@@ -22,18 +24,19 @@
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## Projects
 
-### [Project Name 1](https://github.com/HanSeooooL/projectname1)
+### 포트폴리오 사이트 프로젝트
+**[메인 레포지토리](https://github.com/HanSeooooL/23WvacPortfoliosite)**
+**[API 서버](https://github.com/HanSeooooL/23Wvacportfoliosite_APIServer)**
 
-- **Description:** 프로젝트 1에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: React, Node.js, MongoDB)
+- **Description:** 지금까지 진행한 프로젝트와 커리어들을 기록 할 수 있는 사이트.
+- **Tech Stack:** Next.js, Express.js
 - **Highlights:**
-  - 주요 기능 1
-  - 주요 기능 2
-  - 주요 기능 3
+  - 얻은 커리어를 입력 및 보관
+  - 버튼 클릭으로 이력서로 변환
 
 ### [Project Name 2](https://github.com/yourusername/projectname2)
 
@@ -45,9 +48,6 @@
   - 주요 기능 3
 
 ## GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSeooooL&show_icons=true&theme=radical)
-
 ![3d](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Contact
