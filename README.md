@@ -15,8 +15,6 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 
 ### Frameworks & Libraries
 
@@ -49,6 +47,8 @@
 ## GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanSeooooL&show_icons=true&theme=radical)
+
+![3d](./profile-3d-contrib/profile-green-animate.svg)
 
 ## Contact
 
