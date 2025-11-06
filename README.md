@@ -38,15 +38,6 @@
   - 얻은 커리어를 입력 및 보관
   - 버튼 클릭으로 이력서로 변환
 
-### [Project Name 2](https://github.com/yourusername/projectname2)
-
-- **Description:** 프로젝트 2에 대한 간단한 설명.
-- **Tech Stack:** 사용된 주요 기술들 (예: Python, Django, PostgreSQL)
-- **Highlights:**
-  - 주요 기능 1
-  - 주요 기능 2
-  - 주요 기능 3
-
 ## GitHub Stats
 ![3d](./profile-3d-contrib/profile-green-animate.svg)
 
